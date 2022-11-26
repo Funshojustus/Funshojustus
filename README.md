@@ -17,9 +17,8 @@ I look to have proven expertise in ensuring optimum People’s operational and D
 
 </details>
 
-
 <details>
-<summary>My languages</summary>
+<summary>My Languages</summary>
 
 | Rank |   Languages   |
 |-----:|---------------|
@@ -32,7 +31,7 @@ I look to have proven expertise in ensuring optimum People’s operational and D
 - 🔭 I’m currently working on improving my knowledge in Data Analytics.
 - 🌱 I’m currently learning Python, SQL and JavaScript.
 - 👯 I’m looking to collaborate on Data Analytics projects and learning. 
-- 🤔 I’m looking for help with learning and work opportunities.
+- 🤔 I’m looking for help with learning and job opportunities.
 - 💬 Ask me about Python and SQL
 - 📫 funshoijalana@gmail.com
 - 😄 He/Him
