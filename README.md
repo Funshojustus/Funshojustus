@@ -8,12 +8,12 @@
 
 ## About me
 
-Hi, I'm Funsho. I look to have proven expertise in ensuring optimum People’s operational and Data efficiency.
+Hi, I'm Funsho. I aspire to have proven expertise in optimizing People’s operational and Data efficiency.
 
 <details>
 <summary>My Career Objective</summary>
 
-I look to have proven expertise in ensuring optimum People’s operational and Data efficiency with a career in Human Resources Management and People Data Analytics. 
+I aspire to have proven expertise in optimizing People’s operational and Data efficiency with a career in People and Data Analytics. 
 
 </details>
 
@@ -28,12 +28,12 @@ I look to have proven expertise in ensuring optimum People’s operational and D
 
 </details>
 
-- 🔭 I’m currently working on improving my knowledge in Data Analytics.
+- 🔭 I’m working on improving my knowledge in Data Analytics.
 - 🌱 I’m currently learning Python, SQL and JavaScript.
 - 👯 I’m looking to collaborate on Data Analytics projects and learning. 
 - 🤔 I’m looking for help with learning and job opportunities.
 - 💬 Ask me about Python and SQL
 - 📫 funshoijalana@gmail.com
 - 😄 He/Him
-- ⚡ Fun fact about me is that I have fun learning Data Analytics
+- ⚡ Fun fact about me is that I love playing with Data and I'm Analytical.
 -->
